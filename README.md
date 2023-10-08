@@ -1,4 +1,7 @@
-<img align="center" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D03AQFVZaaBXNVBJA/profile-displayphoto-shrink_400_400/0/1685711731280?e=1702512000&v=beta&t=kDF5Yv9YlfRR6lFJzFl2rhqmguCrttItonaQfGPPMvU"
+<div style="text-align: center;">
+  <img alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D03AQFVZaaBXNVBJA/profile-displayphoto-shrink_400_400/0/1685711731280?e=1702512000&v=beta&t=kDF5Yv9YlfRR6lFJzFl2rhqmguCrttItonaQfGPPMvU">
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Nitish</h1>
 <h3 align="center">A am Full Stack developer</h3>
