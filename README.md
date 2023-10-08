@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://media.licdn.com/dms/image/D4D03AQFVZaaBXNVBJA/profile-displayphoto-shrink_400_400/0/1685711731280?e=1702512000&v=beta&t=kDF5Yv9YlfRR6lFJzFl2rhqmguCrttItonaQfGPPMvU)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]([https://media.licdn.com/dms/image/D4D03AQFVZaaBXNVBJA/profile-displayphoto-shrink_400_400/0/1685711731280?e=1702512000&v=beta&t=kDF5Yv9YlfRR6lFJzFl2rhqmguCrttItonaQfGPPMvU](https://cdn-learn.adafruit.com/guides/images/000/003/613/medium800/Fancy_Octocat_guide_image.png))
 <h1 align="center">Hi 👋, I'm Nitish</h1>
 <h3 align="center">A am Full Stack developer</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif" 
