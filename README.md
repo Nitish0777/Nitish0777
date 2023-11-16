@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Nitish</h1>
+<h1 align="center">Hi 👋, I'm Nitish <p>npx nitish0777</p></h1>
 <h3 align="center">I am Full Stack developer and Passionate Blockchain Developer</h3>
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D03AQFVZaaBXNVBJA/profile-displayphoto-shrink_400_400/0/1685711731280?e=1702512000&v=beta&t=kDF5Yv9YlfRR6lFJzFl2rhqmguCrttItonaQfGPPMvU" 
 
